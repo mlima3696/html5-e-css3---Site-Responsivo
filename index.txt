@@ -1,4 +1,4 @@
-<!Doctype html>
+<!Doctype html5>
 
 <html lang="pt-br">
 
