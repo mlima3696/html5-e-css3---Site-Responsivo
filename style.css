@@ -1,0 +1,24 @@
+body{
+background-color:#CCCCCC;
+}
+h1,h2,h3
+{
+font-family:Verdana, Tahoma;
+}
+
+/* muda a cor de fundo,muda a fonte e espacamento */
+
+section{
+background-color:#FFFFFF;
+font-family:Arial;
+padding: 10px
+}
+/*muda a cor de fundo, cor da fonte, formato da fonte, tamanho, alinhamento,espacamento */
+footer{
+background-color:#000000;
+color:#FFFFFF;
+font-family:Verdana;
+font-size:12px;
+text-align:center;
+padding:8px;
+}
